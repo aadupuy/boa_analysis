@@ -30,6 +30,7 @@ cosmic_basins/
 │   └── visualization_demo.ipynb  # Example Jupyter notebook showing all plots
 │
 └── README.md
+```
 
 ---
 
