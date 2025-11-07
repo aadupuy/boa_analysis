@@ -1,4 +1,4 @@
-# 🌀 `cosmic_basins` — BoA Segmentation Analysis & Visualization Toolkit
+# 🌀 `boa_analysis` — BoA Segmentation Analysis & Visualization Toolkit
 
 ### Basin-of-Attraction (BoA) analysis of the large-scale structure  
 *A modular Python toolkit for analyzing, visualizing, and comparing the cosmic web’s basins of attraction (BoA) from the CLUES and CF4 simulation pipelines.*
